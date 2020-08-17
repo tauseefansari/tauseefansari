@@ -1,5 +1,8 @@
 # Hey There I am Tauseef Ansari 👋
 
+### ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
+
 ## &#129309; Find me on
 [<img align="left" alt="tauseefansari.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://tauseefansari.github.io/)
 [<img align="left" alt="Tauseef Ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tauseef__ansari)
