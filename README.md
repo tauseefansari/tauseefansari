@@ -23,9 +23,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Tauseef Github Stats](https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=radical)
+![Tauseef Github Stats](https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauseefansari&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tauseefansari&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tauseefansari/tauseefansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
