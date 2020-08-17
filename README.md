@@ -9,7 +9,7 @@
 [<img align="left" alt="Tauseef Ansari | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tauseef__ansari)
 [<img align="left" alt="Tauseef Ansari | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tauseef-ansari-02b6081ab)
 [<img align="left" alt="Tauseef Ansari | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/tauseef51)
-<br>
+<br><br>
 
 ##  Languages Known / Used 🛠️
 
@@ -19,7 +19,7 @@
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </p>
-<br>
+<br><br>
 
 ## &#x1f4c8; GitHub Stats
 
