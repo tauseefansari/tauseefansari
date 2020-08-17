@@ -1,16 +1,17 @@
-# Hey There I am Tauseef Ansari 👋
+# Hey There I am Tauseef Ansari <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
 
 ## &#129309; Find me on
-[<img align="left" alt="tauseefansari.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://tauseefansari.github.io/)
-[<img align="left" alt="Tauseef Ansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tauseef__ansari)
-[<img align="left" alt="Tauseef Ansari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tauseef-ansari-02b6081ab)
-[<img align="left" alt="Tauseef Ansari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/tauseef51)
+
+[<img align="left" alt="tauseefansari.github.io" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://tauseefansari.github.io/)
+[<img align="left" alt="Tauseef Ansari | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tauseef__ansari)
+[<img align="left" alt="Tauseef Ansari | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tauseef-ansari-02b6081ab)
+[<img align="left" alt="Tauseef Ansari | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/tauseef51)
 <br>
 
-##  Languages and Tools 🛠️
+##  Languages Known / Used 🛠️
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px">
