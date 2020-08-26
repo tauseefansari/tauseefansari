@@ -1,4 +1,4 @@
-# Hey There 👋 I am Tauseef Ansari <img src="https://media.giphy.com/media/JU5Q299WZWQPALRXDq/giphy.gif" width="30">
+# Hey There 👋 I am Tauseef Ansari <img src="https://media.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif" width="30">
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
