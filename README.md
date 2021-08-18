@@ -1,4 +1,8 @@
-# Hey There 👋 I am Tauseef Ansari <img src="https://media.giphy.com/media/jtuOf0aupRzC6Odqtp/giphy.gif" width="30">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There+👋;I+am+Tauseef+Ansari;Welcome+to+my+profile!&center=true&size=27">
+  </a>
+</h1>
 
 ### ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
