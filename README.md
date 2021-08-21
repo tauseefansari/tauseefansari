@@ -6,6 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="tauseefansari" /> </p>
 
+<br><br>
 
 ## 🏆 My Trophies
 
@@ -22,6 +23,7 @@
 <a href="https://leetcode.com/tauseefansari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tauseefansari/" height="30" width="40" /></a>
 </p>
 
+<br><br>
 
 ##  Languages Known / Used 🛠️
 
@@ -54,8 +56,10 @@
 
 <br><br>
 
-## &#x1f4c8; GitHub Stats
+## ✨ GitHub Streaks
 <p> <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauseefansari&" alt="tauseefansari" /> </p>
+
+## &#x1f4c8; GitHub Stats
 
 <p> <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark)" /> </p>
 
