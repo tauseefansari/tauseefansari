@@ -8,12 +8,12 @@
 
 <br><br>
 
-## 🏆 My Trophies
+## <p align="center"> 🏆 My Trophies </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=tauseefansari&theme=onestar" alt="tauseefansari" /></a> </p>
 
 
-## &#129309; Find me on
+## <p align="center"> &#129309; Find me on </p>
 
 <p align="center">
   <a href="https://tauseefansari.github.io/" target="blank"> <img align="center" width="45" height="45" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://tauseefansari.github.io/" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 
 <br><br>
 
-## 🛠️ Languages Known / Used 
+## <p align="center"> 🛠️ Languages Known / Used </p>
 
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -56,12 +56,12 @@
 
 <br><br>
 
-## ✨ GitHub Streaks
+##  <p align="center"> ✨ GitHub Streaks </p>
 <p> <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauseefansari&" alt="tauseefansari" /> </p>
 
 <br><br>
 
-## &#x1f4c8; GitHub Stats
+## <p align="center"> &#x1f4c8; GitHub Stats </p>
 
 <p> <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark)" /> </p>
 
