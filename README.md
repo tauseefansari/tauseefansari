@@ -59,6 +59,8 @@
 ## ✨ GitHub Streaks
 <p> <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauseefansari&" alt="tauseefansari" /> </p>
 
+<br><br>
+
 ## &#x1f4c8; GitHub Stats
 
 <p> <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark)" /> </p>
