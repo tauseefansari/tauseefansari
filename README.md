@@ -63,9 +63,9 @@
 
 ## <p align="center"> &#x1f4c8; GitHub Stats </p>
 
-<p> <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark)" /> </p>
+<p> <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark" /> </p>
 
-<p> <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauseefansari&theme=dark)" /> </p>
+<p> <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauseefansari&theme=dark" /> </p>
 
 <!--
 **tauseefansari/tauseefansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
