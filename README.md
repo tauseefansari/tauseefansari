@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="tauseefansari" /> </p>
 
 
-## 🏆 My Trophy
+## 🏆 My Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=tauseefansari&theme=onestar" alt="tauseefansari" /></a> </p>
 
