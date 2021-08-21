@@ -57,13 +57,13 @@
 <br><br>
 
 ##  <p align="center"> ✨ GitHub Streaks </p>
-<p> <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=tauseefansari&" alt="tauseefansari" /> </p>
+<p> <img align="center" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=tauseefansari&theme=dark&hide_border=true" alt="tauseefansari" /> </p>
 
 <br><br>
 
 ## <p align="center"> &#x1f4c8; GitHub Stats </p>
 
-<p> <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark)" /> </p>
+<p> <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark)" /> </p>
 
 <p> <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauseefansari&theme=dark)" /> </p>
 
