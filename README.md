@@ -6,8 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet" alt="tauseefansari" /> </p>
 
-<br><br>
-
 ## <p align="center"> 🏆 My Trophies </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=tauseefansari&theme=onestar" alt="tauseefansari" /></a> </p>
@@ -66,6 +64,10 @@
 <p> <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=tauseefansari&show_icons=true&theme=dark" /> </p>
 
 <p> <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauseefansari&theme=dark" /> </p>
+
+<br><br><br>
+<p align="center"> Random Joke 😂 </p>
+<img align="center" src="https://readme-jokes.vercel.app/api" />
 
 <!--
 **tauseefansari/tauseefansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
