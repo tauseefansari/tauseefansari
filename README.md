@@ -67,7 +67,7 @@
 
 <br><br><br><br><br><br><br><br>
 ## <p align="center"> 😂 Here is a random joke that'll make you laugh! </p>
-<img align="center" src="https://readme-jokes.vercel.app/api" />
+<img align="center" width="50%" src="https://readme-jokes.vercel.app/api" />
 
 <!--
 **tauseefansari/tauseefansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
