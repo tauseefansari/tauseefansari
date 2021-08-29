@@ -66,7 +66,7 @@
 <p> <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauseefansari&theme=dark" /> </p>
 
 <br><br><br><br><br><br><br><br>
-## <p align="center"> 😂 Here is a random joke that'll make you laugh! </p>
+## <p align="center"> 😂 Here is a Random Joke </p>
 <img align="center" width="50%" src="https://readme-jokes.vercel.app/api" />
 
 <!--
