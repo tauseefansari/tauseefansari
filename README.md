@@ -65,10 +65,6 @@
 
 <p> <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauseefansari&theme=dark" /> </p>
 
-<br><br><br><br><br><br><br><br> 
-## <p align="center"> 😂 Here is a Random Joke </p>
-<img align="center" src="https://readme-jokes.vercel.app/api" />
-
 <!--
 **tauseefansari/tauseefansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
